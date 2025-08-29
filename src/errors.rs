@@ -23,6 +23,7 @@ pub enum AppError {
     #[error("Authentication error: {0}")]
     Authentication(String),
 
+    #[allow(dead_code)]
     #[error("Authorization error: {0}")]
     Authorization(String),
 
@@ -32,6 +33,7 @@ pub enum AppError {
     #[error("Conflict: {0}")]
     Conflict(String),
 
+    #[allow(dead_code)]
     #[error("Internal server error")]
     Internal,
 }
