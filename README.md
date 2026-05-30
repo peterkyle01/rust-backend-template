@@ -1,5 +1,9 @@
 # Rust MVC Backend
 
+> ⚠️ **Archived Repository**
+>
+> This repository is archived. Please use [peterkyle01/rust-neon-template](https://github.com/peterkyle01/rust-neon-template), which is now the preferred template.
+
 A clean, production-ready Rust backend with JWT authentication and Neon PostgreSQL database.
 
 ## 🚀 Features
